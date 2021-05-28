@@ -1,0 +1,68 @@
+#marquee {
+    font-size: 20px;
+    color: cornflowerblue;
+}
+
+#myschoolpic {
+    margin-left: 400px;
+}
+
+body {
+    text-align: center;
+}
+
+#schoollogo {
+    margin-right: 800px;
+    
+}
+
+principal {
+    text-align: center;
+    font-size: 15px;
+}
+
+img-circle {
+    margin-left: 400px;
+}
+
+.row::after {
+    content: "";
+    clear:both;
+    display: table;
+
+}
+.travel{
+    float: left;
+    width: 33.33%;
+    padding: 20px;
+    border: 1px  solid #c7c7c7;
+}
+.qu{
+    padding-left: 200px;
+}
+#achievementsID{
+    padding: 10px;
+}
+.movie_head{
+    padding: 6px 22px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_head text_span{
+    color: #ff7700;
+    color: antiquewhite;
+}
+canteen_li{
+  padding-left: 20px;
+    padding-bottom: 20px;
+}
+managment_li{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
